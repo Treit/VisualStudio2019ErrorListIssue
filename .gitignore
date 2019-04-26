@@ -1,0 +1,15 @@
+merged.app.config
+sqlite3/db.lock
+sqlite3/storage.ide*
+bin/
+obj
+objd
+*.user
+*.sln.cache
+*.userosscache
+*.suo
+msbuild.err
+msbuild.wrn
+*.log
+*.bak
+.vs/
